@@ -24,10 +24,10 @@
 
 | TENCENT_SECRET_ID | 腾讯云用户SecretID(需要主账户，子账户可能没权限) |
 
-| TENCENT_SECRET_KEY |
+| TENCENT_SECRET_KEY | 腾讯云账户SecretKey |
 
 | appid  | 填写获取的 appid |
 
-| user  | 手机号 | 腾讯云账户SecretKey |
+| user  | 手机号 |
 
 | password  | 服务密码 |
