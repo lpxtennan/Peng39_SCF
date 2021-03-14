@@ -20,8 +20,10 @@
     
 >其他参数:
 
-# appid  ( 填写获取的 appid )
+* appid  ( 填写获取的 appid )
 
-# user  ( 手机号 )
+* user  ( 手机号 )
 
-# password (服务密码)
+* password (服务密码)
+
+填完参数后action选择"部署到云函数即可"
