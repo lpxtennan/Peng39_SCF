@@ -18,31 +18,10 @@
 
     *  2.1.2 "TENCENT_SECRET_KEY"          value为腾讯云账户SecretKey
     
-其他参数:
-|  Name | Value  |
+>其他参数:
 
-| --- | --- |
+# appid  ( 填写获取的 appid )
 
-| TENCENT_SECRET_ID | 腾讯云用户SecretID(需要主账户，子账户可能没权限) |
+# user  ( 手机号 )
 
-| TENCENT_SECRET_KEY | 腾讯云账户SecretKey |
-
-| appid  | 填写获取的 appid |
-
-| user  | 手机号 |
-
- 参数如下：  
-
-|  Name | Value  |
-
-|  --- | --- |
-
-| ENABLE_UNICOM  | 直接填写 true |
-
-| UNICOM_APPID  | 填写获取的 appid |
-
-| UNICOM_USER  | 手机号 |
-
-| UNICOM_PASSWORD  | 服务密码 |
-
-| password  | 服务密码 |
+# password (服务密码)
