@@ -20,7 +20,7 @@
 其他参数
 |  Name | Value  |
 
-|  --- | --- |
+| --- | --- |
 
 | TENCENT_SECRET_ID | 腾讯云用户SecretID(需要主账户，子账户可能没权限) |
 
